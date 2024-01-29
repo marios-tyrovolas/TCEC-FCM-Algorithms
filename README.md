@@ -7,7 +7,11 @@
 2. [Abstract](#abstract)
 3. [Pseudocode](#pseudocode)
 4. [Source Code](#sourcecode)
-5. [Citation](#citation)
+5. [Installation and Usage](#installation-and-usage)
+6. [Citation](#citation)
+7. [License](#license)
+8. [Contact](#contact)
+9. [Acknowledgement](#acknowledgement)
 
 ### General Info
 ***
@@ -25,24 +29,21 @@ Abstract to be inserted.
 
 ## Pseudocode
 
-In this repository, a detailed document containing the pseudocode for TCEC-FCM-LS and TCEC-FCM-BS Algorithms is provided:
-1. *file_name here*
+Detailed pseudocode for TCEC-FCM-LS and TCEC-FCM-BS Algorithms is provided for a clearer understanding of the implementation:
+1. [Pseudocode file link]
 
 
 ## Source Code
 
-Complete source code is provided for all algorithms, enabling users to explore, test, and apply these methods in various FCM scenarios. To access it, please navigate to [*Source Code*](https://github.com/marios-tyrovolas/TCEC-FCM-Algorithms/tree/main/Source%20Code) folder.
+Complete source code for all algorithms is available, enabling users to explore, test, and apply these methods in various FCM scenarios. Access it in the [Source Code](https://github.com/marios-tyrovolas/TCEC-FCM-Algorithms/tree/main/Source%20Code) folder.
 
-The provided algorithms are the following:
+The provided algorithms include:
+* TCEC-FCM-LS and TCEC-FCM-BS Algorithms
+* DFSB-FCM Algorithm
 
+## Installation and Usage
 
-* **TCEC-FCM-LS and TCEC-FCM-BS Algorithms**: Two variants of the TCEC-FCM algorithm leveraging Linear Search (LS) and Binary Search (BS) methodologies, respectively, to optimize calculation efficiency in different scenarios.
-  1. *file_name here*
-  2. *file_name here*
-* **DFSB-FCM Algorithm**: An alternative approach using Depth-First Search with Backtracking (DFSB), included for comparative analysis.
-  1. *file_name here*
-
-
+To use these algorithms, simply ensure you have MATLAB installed on your system, preferably the latest version for optimal compatibility and performance. No additional installation steps are required. Simply download the source code and open it in MATLAB to begin.
 
 ## Citation
 
