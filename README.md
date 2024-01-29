@@ -31,7 +31,7 @@ In this repository, a detailed document containing the pseudocode for TCEC-FCM-L
 
 ## Source Code
 
-Complete source code is provided for all algorithms, enabling users to explore, test, and apply these methods in various FCM scenarios. To access it, please navigate to [*"sourcecode"*](https://github.com/marios-tyrovolas/TCEC-FCM-Algorithms/tree/main/Source%20Code) folder.
+Complete source code is provided for all algorithms, enabling users to explore, test, and apply these methods in various FCM scenarios. To access it, please navigate to [*Source Code*](https://github.com/marios-tyrovolas/TCEC-FCM-Algorithms/tree/main/Source%20Code) folder.
 
 The provided algorithms are the following:
 
