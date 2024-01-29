@@ -20,7 +20,7 @@ This repository contains the source code developed and used in the paper: *"Caus
 
 ### Abstract
 ***
-Fuzzy Cognitive Maps (FCMs) are a graph-based methodology successfully applied for knowledge representation of complex systems modelled through an interactive structure of nodes connected with causal relationships. Due to their flexibility and inherent interpretability, FCMs have been used in various modelling and prediction tasks to support human decisions. However, a notable limitation of FCMs is their susceptibility to inadvertently capturing spurious correlations from data, undermining their prediction accuracy and interpretability. In addressing this challenge, our primary contribution is the introduction of a novel framework for constructing FCMs using the Liang-Kleeman Information Flow (L-K IF) analysis, a quantitative causality analysis rigorously derived from first principles. The novelty of the proposed approach lies in the identification of actual causal relationships from the data using an automatic causal search algorithm. These relationships are subsequently imposed as constraints in the FCM learning procedure to rule out spurious correlations and improve the aggregate predictive and explanatory power of the model. Numerical simulations validate the superiority of our method against state-of-the-art FCM-based models, thereby bolstering the reliability, accuracy, and interpretability of FCMs.
+Abstract to be inserted.
 ***
 
 ## Pseudocode
