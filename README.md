@@ -54,6 +54,12 @@ Tyrovolas, M., Kallimanis, N. D., & Stylios, C. (2024). Causal Effect Analysis i
 ```
 **Note:** This citation will be updated once the paper is officially published.
 
+## License
+***
+This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) License. Under this license, you are free to share and use this work as long as you provide attribution to the original authors and do not modify the material in any way.
+
+For more details, see the full license [here](https://creativecommons.org/licenses/by-nd/4.0/).
+
 ### Contact
 
 For any question, please raise an issue or contact
