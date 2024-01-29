@@ -36,10 +36,10 @@ Complete source code is provided for all algorithms, enabling users to explore, 
 The provided algorithms are the following:
 
 
-* [**TCEC-FCM-LS and TCEC-FCM-BS Algorithms**]: Two variants of the TCEC-FCM algorithm leveraging Linear Search (LS) and Binary Search (BS) methodologies, respectively, to optimize calculation efficiency in different scenarios.
+* **TCEC-FCM-LS and TCEC-FCM-BS Algorithms**: Two variants of the TCEC-FCM algorithm leveraging Linear Search (LS) and Binary Search (BS) methodologies, respectively, to optimize calculation efficiency in different scenarios.
   1. *file_name here*
   2. *file_name here*
-* [**DFSB-FCM Algorithm**]: An alternative approach using Depth-First Search with Backtracking (DFSB), included for comparative analysis.
+* **DFSB-FCM Algorithm**: An alternative approach using Depth-First Search with Backtracking (DFSB), included for comparative analysis.
   1. *file_name here*
 
 
