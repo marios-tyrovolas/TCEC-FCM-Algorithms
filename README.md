@@ -30,7 +30,7 @@ Abstract to be inserted.
 ## Pseudocode
 
 Detailed pseudocode for TCEC-FCM-LS and TCEC-FCM-BS Algorithms is provided for a clearer understanding of the implementation:
-1. [Pseudocode file link]
+1. [TCEC-FCM Pseudocodes](https://github.com/marios-tyrovolas/TCEC-FCM-Algorithms/blob/main/TCEC_FCM_Pseudocodes.pdf)
 
 
 ## Source Code
