@@ -24,7 +24,7 @@ This repository contains the source code developed and used in the paper: *"Caus
 
 ### Abstract
 ***
-Abstract to be inserted.
+In the quest for accurate and interpretable AI models, eXplainable AI (XAI) has become crucial. Among its tools, Fuzzy Cognitive Maps (FCMs) stand out for their ability to exploit both expert knowledge and data-driven insights, providing transparency and intrinsic interpretability. This letter introduces the Total Causal Effect Calculation for FCMs (TCEC-FCM) algorithm, an innovative approach that, for the first time, enables the efficient calculation of total causal effects between concepts in large-scale FCMs by leveraging binary search and Breadth-First Search technique, thereby overcoming the challenge of exhaustive causal path searches that hinder existing methods. Our evaluation across various synthetic FCMs demonstrates TCEC-FCM's superior performance over exhaustive methods, marking a significant advancement in causal effect analysis within FCMs, thus broadening their usability in XAI applications.
 ***
 
 ## Pseudocode
