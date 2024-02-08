@@ -15,7 +15,7 @@
 
 ### General Info
 ***
-This repository contains the source code developed and used in the paper: *"Causal Effect Analysis in Large-Scale Fuzzy Cognitive Maps for Explainable Artificial Intelligence (XAI)"* written by **Marios Tyrovolas**, **Nikolaos D. Kallimanis**, and **Chrysostomos Stylios**. 
+This repository contains the source code developed and used in the paper: *"Advancing Explainable AI with Causal Analysis in Large-Scale Fuzzy Cognitive Maps"* written by **Marios Tyrovolas**, **Nikolaos D. Kallimanis**, and **Chrysostomos Stylios**. 
 ***
 
 <p align="center">
@@ -51,7 +51,7 @@ While this paper is under review, please cite this work as follows:
 
 
 ```
-Tyrovolas, M., Kallimanis, N. D., & Stylios, C. (2024). Causal Effect Analysis in Large-Scale Fuzzy Cognitive Maps for Explainable Artificial Intelligence (XAI). Submitted to IEEE Systems, Man, and Cybernetics Letters
+Tyrovolas, M., Kallimanis, N. D., & Stylios, C. (2024). Advancing Explainable AI with Causal Analysis in Large-Scale Fuzzy Cognitive Maps. Submitted to IEEE Systems, Man, and Cybernetics Letters
 ```
 **Note:** This citation will be updated once the paper is officially published.
 
